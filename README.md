@@ -14,7 +14,7 @@ El objetivo de este taller es aplicar de manera práctica a las principales herr
 - Sesión 2 (Viernes 28/07/2023): Manipulación de tablas y objetos.
 
   + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion2/TAD_sesion2.pdf)
-  + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023#:~:text=with%20GitHub%20Desktop-,Download%20ZIP,-Latest%20commit)
+  + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023/archive/refs/heads/main.zip)
 
 - Sesión 3 (Lunes 31/07/2023): Manipulación de variables.
 
