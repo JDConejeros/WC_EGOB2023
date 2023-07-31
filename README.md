@@ -22,6 +22,8 @@ Accede a las grabaciones (duración de 14 días): [Parte II](https://zoom.us/rec
   + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion2/TAD_sesion2.pdf)
   + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023/archive/refs/heads/main.zip)
 
+Accede a las grabaciones (duración de 14 días): [Parte I](https://zoom.us/rec/play/sp9ENewAgq4sEqZrX_hPO2IkAuhfMOhbXbJDoB3itrNN-1REcpH3UnF6uGAfAD4mOpSMn2vQvJeKIXng.URCqNaNw8aem3LVp?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FGhKckdwHPebzl6D-oVzoApho4YcNdFG2rvaXBwHUIHrshC4EhMm6o1JbdNxtn1Y.vCAcG7MZih2F9Y9y)
+
 - Sesión 3 (Lunes 31/07/2023): Manipulación de variables.
 
   + :pushpin: [Link a la presentación]()
