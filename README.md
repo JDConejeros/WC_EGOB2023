@@ -6,6 +6,8 @@
 
 El objetivo de este taller es aplicar de manera práctica a las principales herramientas que ofrece R para la lectura, procesamiento y visualización de datos cuantitativos. Con esto se espera tener una base troncal para la exploración e implementación de técnicas de análisis y modelamiento. 
 
+Accede al zoom dando [click aquí](https://zoom.us/j/94007641467)
+
 - Sesión 1 (Miércoles 26/07/2023): Introducción a R como lenguaje de programación estadístico y RStudio como interfaz gráfica.
 
   + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion1/TAD_sesion1.pdf)
