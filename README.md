@@ -26,18 +26,18 @@ Accede a las grabaciones (duración de 14 días): [Parte I](https://zoom.us/rec/
 
 - Sesión 3 (Lunes 31/07/2023): Manipulación de variables.
 
-  + :pushpin: [Link a la presentación]()
-  + :file_folder: [Descargar los materiales]()
+  + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion3/TAD_sesion3.pdf)
+  + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023/archive/refs/heads/main.zip)
 
 - Sesión 4 (Miércoles 02/08/2023): Programación funcional
 
-  + :pushpin: [Link a la presentación]()
-  + :file_folder: [Descargar los materiales]()
+  + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion4/TAD_sesion4.pdf)
+  + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023/archive/refs/heads/main.zip)
 
 - Sesión 5 (Viernes 04/08/2023): Visualización de datos 
 
-  + :pushpin: [Link a la presentación]()
-  + :file_folder: [Descargar los materiales]()
+  + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion5/TAD_sesion5.pdf)
+  + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023/archive/refs/heads/main.zip)
 
 **Puedes acceder a la evaluación del taller dando [click aquí](https://github.com/JDConejeros/WC_EGOB2023/tree/main/Evaluacion)
 
