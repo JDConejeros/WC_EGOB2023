@@ -287,6 +287,15 @@ glimpse(data2) # 2 Columnas
 glimpse(data3) # 3 Columnas
 
 # Vamos a unir estos tres marcos datos en uno solo para reconstruir la data original
+head(data1)
+head(data2)
+head(data3)
+
+data1b <- data1 %>% 
+  left_join(data2, by=c("idalumno"="id")) 
+
+head(data1b)
+
 full_data <- data1 %>% 
   left_join(data2, by=c("idalumno"="id")) %>% 
   left_join(data3, by=c("idalumno"="folio")) 
