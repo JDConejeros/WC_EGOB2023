@@ -1,0 +1,13 @@
+continente,anio,esperanza_de_vida,poblacion,pib_per_capita,esperanza_baja,resultado
+Europa,1952,65.86,7733250,3530.690067,FALSE,Mayor al promedio
+Europa,1957,67.86,8096218,4916.299889,FALSE,Mayor al promedio
+Europa,1962,69.51,8448233,6017.190733,FALSE,Mayor al promedio
+Europa,1967,71,8716441,8513.097016,FALSE,Mayor al promedio
+Europa,1972,72.34,8888628,12724.82957,FALSE,Mayor al promedio
+Europa,1977,73.68,9308479,14195.52428,FALSE,Mayor al promedio
+Europa,1982,75.24,9786480,15268.42089,FALSE,Mayor al promedio
+Europa,1987,76.67,9974490,16120.52839,FALSE,Mayor al promedio
+Europa,1992,77.03,10325429,17541.49634,FALSE,Mayor al promedio
+Europa,1997,77.869,10502372,18747.69814,FALSE,Mayor al promedio
+Europa,2002,78.256,10603863,22514.2548,FALSE,Mayor al promedio
+Europa,2007,79.483,10706290,27538.41188,FALSE,Mayor al promedio

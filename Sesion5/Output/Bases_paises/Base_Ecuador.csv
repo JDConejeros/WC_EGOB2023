@@ -1,0 +1,13 @@
+continente,anio,esperanza_de_vida,poblacion,pib_per_capita,esperanza_baja,resultado
+Américas,1952,48.357,3548753,3522.110717,TRUE,Menor al promedio
+Américas,1957,51.356,4058385,3780.546651,TRUE,Menor al promedio
+Américas,1962,54.64,4681707,4086.114078,TRUE,Menor al promedio
+Américas,1967,56.678,5432424,4579.074215,TRUE,Menor al promedio
+Américas,1972,58.796,6298651,5280.99471,TRUE,Menor al promedio
+Américas,1977,61.31,7278866,6679.62326,FALSE,Mayor al promedio
+Américas,1982,64.342,8365850,7213.791267,FALSE,Mayor al promedio
+Américas,1987,67.231,9545158,6481.776993,FALSE,Mayor al promedio
+Américas,1992,69.613,10748394,7103.702595,FALSE,Mayor al promedio
+Américas,1997,72.312,11911819,7429.455877,FALSE,Mayor al promedio
+Américas,2002,74.173,12921234,5773.044512,FALSE,Mayor al promedio
+Américas,2007,74.994,13755680,6873.262326,FALSE,Mayor al promedio

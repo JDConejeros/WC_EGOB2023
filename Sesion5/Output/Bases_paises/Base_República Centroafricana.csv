@@ -1,0 +1,13 @@
+continente,anio,esperanza_de_vida,poblacion,pib_per_capita,esperanza_baja,resultado
+África,1952,35.463,1291695,1071.310713,TRUE,Menor al promedio
+África,1957,37.464,1392284,1190.844328,TRUE,Menor al promedio
+África,1962,39.475,1523478,1193.068753,TRUE,Menor al promedio
+África,1967,41.478,1733638,1136.056615,TRUE,Menor al promedio
+África,1972,43.457,1927260,1070.013275,TRUE,Menor al promedio
+África,1977,46.775,2167533,1109.374338,TRUE,Menor al promedio
+África,1982,48.295,2476971,956.7529907,TRUE,Menor al promedio
+África,1987,50.485,2840009,844.8763504,TRUE,Menor al promedio
+África,1992,49.396,3265124,747.9055252,TRUE,Menor al promedio
+África,1997,46.066,3696513,740.5063317,TRUE,Menor al promedio
+África,2002,43.308,4048013,738.6906068,TRUE,Menor al promedio
+África,2007,44.741,4369038,706.016537,TRUE,Menor al promedio

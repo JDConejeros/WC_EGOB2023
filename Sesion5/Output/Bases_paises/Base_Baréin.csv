@@ -1,0 +1,13 @@
+continente,anio,esperanza_de_vida,poblacion,pib_per_capita,esperanza_baja,resultado
+Asia,1952,50.939,120447,9867.084765,TRUE,Menor al promedio
+Asia,1957,53.832,138655,11635.79945,TRUE,Menor al promedio
+Asia,1962,56.923,171863,12753.27514,TRUE,Menor al promedio
+Asia,1967,59.923,202182,14804.6727,FALSE,Mayor al promedio
+Asia,1972,63.3,230800,18268.65839,FALSE,Mayor al promedio
+Asia,1977,65.593,297410,19340.10196,FALSE,Mayor al promedio
+Asia,1982,69.052,377967,19211.14731,FALSE,Mayor al promedio
+Asia,1987,70.75,454612,18524.02406,FALSE,Mayor al promedio
+Asia,1992,72.601,529491,19035.57917,FALSE,Mayor al promedio
+Asia,1997,73.925,598561,20292.01679,FALSE,Mayor al promedio
+Asia,2002,74.795,656397,23403.55927,FALSE,Mayor al promedio
+Asia,2007,75.635,708573,29796.04834,FALSE,Mayor al promedio
