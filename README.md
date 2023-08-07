@@ -13,25 +13,25 @@ Accede al zoom dando [click aquí](https://zoom.us/j/3714260937)
   + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion1/TAD_sesion1.pdf)
   + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023/archive/refs/heads/main.zip)
 
-    Accede a las grabaciones (duración de 14 días): [Video Parte I](https://zoom.us/rec/play/FHcXG2t8pCKpvqIKsJwfI9OqzDmUKBxvabm33p9C5-uMNEZkkfSoWTiV9yDzbee4m9fx3vpTz17RZWZ3.KcgKCdjoqjSFXyU1?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FE8rjbQYHWeoK4UEPUs81mA3K5Jw_aI8O576cmlRfH6EyS64TKZE-s4hQz_6Pfulz.wFSlk_41Jc9JEK_J)
+  Accede a las grabaciones (duración de 14 días): [Video Parte I](https://zoom.us/rec/play/FHcXG2t8pCKpvqIKsJwfI9OqzDmUKBxvabm33p9C5-uMNEZkkfSoWTiV9yDzbee4m9fx3vpTz17RZWZ3.KcgKCdjoqjSFXyU1?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FE8rjbQYHWeoK4UEPUs81mA3K5Jw_aI8O576cmlRfH6EyS64TKZE-s4hQz_6Pfulz.wFSlk_41Jc9JEK_J)
 
-    Accede a las grabaciones (duración de 14 días): [Video Parte II](https://zoom.us/rec/play/h9qdticYqXnMHuwps36ZKRGRPjJ7gI4fLoY8fYxElc6RGUvolL-n4gnym-r6pGY-aUNg3Z2Fb2D5mSBc.STAjYlPI8IXzyKNp?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FMkt1n948kq_zy39sW2jnhrdcbQg72JmOZ4pv5LmxxGQBfVU3cmUWHtf2ASH4ZE47.rIKAl2BtweVDAY-R)
+  Accede a las grabaciones (duración de 14 días): [Video Parte II](https://zoom.us/rec/play/h9qdticYqXnMHuwps36ZKRGRPjJ7gI4fLoY8fYxElc6RGUvolL-n4gnym-r6pGY-aUNg3Z2Fb2D5mSBc.STAjYlPI8IXzyKNp?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FMkt1n948kq_zy39sW2jnhrdcbQg72JmOZ4pv5LmxxGQBfVU3cmUWHtf2ASH4ZE47.rIKAl2BtweVDAY-R)
 
 - Sesión 2 (Viernes 28/07/2023): Manipulación de tablas y objetos.
 
   + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion2/TAD_sesion2.pdf)
   + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023/archive/refs/heads/main.zip)
 
-    Accede a las grabaciones (duración de 14 días): [Video](https://zoom.us/rec/play/sp9ENewAgq4sEqZrX_hPO2IkAuhfMOhbXbJDoB3itrNN-1REcpH3UnF6uGAfAD4mOpSMn2vQvJeKIXng.URCqNaNw8aem3LVp?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FGhKckdwHPebzl6D-oVzoApho4YcNdFG2rvaXBwHUIHrshC4EhMm6o1JbdNxtn1Y.vCAcG7MZih2F9Y9y)
+  Accede a las grabaciones (duración de 14 días): [Video](https://zoom.us/rec/play/sp9ENewAgq4sEqZrX_hPO2IkAuhfMOhbXbJDoB3itrNN-1REcpH3UnF6uGAfAD4mOpSMn2vQvJeKIXng.URCqNaNw8aem3LVp?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FGhKckdwHPebzl6D-oVzoApho4YcNdFG2rvaXBwHUIHrshC4EhMm6o1JbdNxtn1Y.vCAcG7MZih2F9Y9y)
 
 - Sesión 3 (Lunes 31/07/2023): Manipulación de variables.
 
   + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion3/TAD_sesion3.pdf)
   + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023/archive/refs/heads/main.zip)
   
-    Accede a las grabaciones (duración de 14 días): [Video Parte I](https://zoom.us/rec/share/xzVBLcypJY7NqHv8Cc65NHj4p55mDs8Gqe63Hvm5hqdvJfrnskg-wtkcQvBO0teu.ZMK4zBenM3vX1PaW)
+  Accede a las grabaciones (duración de 14 días): [Video Parte I](https://zoom.us/rec/share/xzVBLcypJY7NqHv8Cc65NHj4p55mDs8Gqe63Hvm5hqdvJfrnskg-wtkcQvBO0teu.ZMK4zBenM3vX1PaW)
 
-    Accede a las grabaciones (duración de 14 días): [Video Parte II]()
+  Accede a las grabaciones (duración de 14 días): [Video Parte II](https://zoom.us/rec/play/hym5k_Bjuoo3oTI7JKdD3FVTJxbdZm5RBddFmlb474msTREcatmQcyhMcD4AhZv-rTAqi7ErwNLbc4uz.UjzAJwXHliAiMd5V?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FbEv3CtxKOU9vojmCWBE7Vp7zneaSJLBBwT8ZzIY1SVpqTm24hs8UpxrLJ-Ju1Q96.1A5bFOgVT1fkClUS)
 
 
 - Sesión 4 (Miércoles 02/08/2023): Visualización de datos 
@@ -39,14 +39,14 @@ Accede al zoom dando [click aquí](https://zoom.us/j/3714260937)
   + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion4/TAD_sesion4.pdf)
   + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023/archive/refs/heads/main.zip)
 
-    Accede a las grabaciones (duración de 14 días): [Video]()
+  Accede a las grabaciones (duración de 14 días): [Video](https://zoom.us/rec/play/ILlCM75vC10buD9grw0_UcLerrrf2cOu_HDUlVHLJRgdqGsl4EazGaSbgOc4ZhRiJZeT5nYvS69K2bIZ.bs5Db85n2WkL64uJ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2F3iW7EL-MwzrI5i8iUqwEIh4j5u58zUUwZAy1ui953bjJqJSX9l970e3D4fzt8dqg.ew7jYIKErStEiiWe)
 
 - Sesión 5 (Viernes 04/08/2023): Programación funcional
 
   + :pushpin: [Link a la presentación](https://github.com/JDConejeros/WC_EGOB2023/blob/main/Sesion5/TAD_sesion5.pdf)
   + :file_folder: [Descargar los materiales](https://github.com/JDConejeros/WC_EGOB2023/archive/refs/heads/main.zip)
 
-    Accede a las grabaciones (duración de 14 días): [Video]()
+  Accede a las grabaciones (duración de 14 días): [Video]()
 
 **Puedes acceder a la evaluación del taller dando [click aquí](https://github.com/JDConejeros/WC_EGOB2023/tree/main/Evaluacion)
 
